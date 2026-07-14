@@ -1,16 +1,10 @@
 [
   {
     "Id": "1",
-    "Name": "Calculator Ultra",
-    "Publisher": "Bloom Devs",
-    "Icon": " ",
-    "Description": "A sleek, lightweight calculator designed for modern Windows."
-  },
-  {
-    "Id": "2",
-    "Name": "Files Minimal",
-    "Publisher": "System Tools",
-    "Icon": " ",
-    "Description": "An ultra-minimalist file explorer with snappy performance."
+    "Name": "App1",
+    "Publisher": "Publisher1",
+    "Icon": "ms-appx:///Assets/Logo.scale-100.png",
+    "Description": "Description.",
+    "DownloadUrl": "https://raw.githubusercontent.com/bloomthebloom/LiveText/main/Live%20Text%20-%20Windows%208.1_1.2.0.0_AnyCPU.appx"
   }
 ]
