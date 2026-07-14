@@ -1,1 +1,16 @@
-
+[
+  {
+    "Id": "1",
+    "Name": "Calculator Ultra",
+    "Publisher": "Bloom Devs",
+    "Icon": " ",
+    "Description": "A sleek, lightweight calculator designed for modern Windows."
+  },
+  {
+    "Id": "2",
+    "Name": "Files Minimal",
+    "Publisher": "System Tools",
+    "Icon": " ",
+    "Description": "An ultra-minimalist file explorer with snappy performance."
+  }
+]
