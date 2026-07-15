@@ -6,13 +6,15 @@
     "Icon": "https://i.ibb.co/ZpxLq0vV/Logo-scale-100.png",
     "Description": "All in one quote-text app! The Live Text app for Windows 8.1 gives you quotes from a API and you can customize it and it will fit with your design! You can even write your texts to appear on the live tile and don't forget that the next version will come soon!",
     "DownloadUrl": "https://raw.githubusercontent.com/bloomthebloom/LiveText/main/Live%20Text%20-%20Windows%208.1_1.2.0.0_AnyCPU.appx"
+    "Version": "1.2.0.0"
   },
     {
-    "Id": " ",
-    "Name": " ",
-    "Publisher": " ",
-    "Icon": " ",
+    "Id": "freshpaint",
+    "Name": "Fresh Paint",
+    "Publisher": "Microsoft Corporation",
+    "Icon": "https://i.ibb.co/MDDPr57W/freshpaint.png",
     "Description": " ",
     "DownloadUrl": ""
+    "Version": "1.2.0.0"
   }
 ]
