@@ -6,7 +6,8 @@
     "Icon": "https://i.ibb.co/ZpxLq0vV/Logo-scale-100.png",
     "Description": "All in one quote-text app! The Live Text app for Windows 8.1 gives you quotes from a API and you can customize it and it will fit with your design! You can even write your texts to appear on the live tile and don't forget that the next version will come soon!",
     "DownloadUrl": "https://raw.githubusercontent.com/bloomthebloom/LiveText/main/Live%20Text%20-%20Windows%208.1_1.2.0.0_AnyCPU.appx",
-    "Version": "1.2.0.0"
+    "Version": "1.2.0.0",
+    "Category": "Other"
   },
     {
     "Id": "freshpaint",
@@ -15,6 +16,17 @@
     "Icon": "https://i.ibb.co/MDDPr57W/freshpaint.png",
     "Description": "Unleash your inner creative with Fresh Paint – the ultimate canvas for your big ideas. Fresh Paint is a fun and easy to use painting app with the right tools for artists of all ages.  We believe that brilliant, creative ideas can come from anyone, anytime. It’s time to set your creativity free. Create original artwork, turn photos into beautiful paintings, or choose an activity pack to help you get started quickly. From whimsical pictures of your friends to amazing landscapes, Fresh Paint enables you to create anything. “Utterly superb” – Brad Chacos, PC World “Windows 8’s coolest app: Fresh Paint” – David Goldman, CNNMoney “The most realistic painting app I have ever used” – Joe Fedewa, WinSource “There's no better demonstration of the cool types of things you can do with multitouch than Fresh Paint.” – Michael Muchmore, PC Magazine",
     "DownloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/FreshPaint/Microsoft.FreshPaint_2.0.15133.0_x86__8wekyb3d8bbwe.appx",
-    "Version": "1.2.0.0"
+    "Version": "1.2.0.0",
+    "Category": "Entertainment"
+  },
+      {
+    "Id": "freshpaint",
+    "Name": "Fresh Paint",
+    "Publisher": "Microsoft Corporation",
+    "Icon": "https://i.ibb.co/MDDPr57W/freshpaint.png",
+    "Description": "Unleash your inner creative with Fresh Paint – the ultimate canvas for your big ideas. Fresh Paint is a fun and easy to use painting app with the right tools for artists of all ages.  We believe that brilliant, creative ideas can come from anyone, anytime. It’s time to set your creativity free. Create original artwork, turn photos into beautiful paintings, or choose an activity pack to help you get started quickly. From whimsical pictures of your friends to amazing landscapes, Fresh Paint enables you to create anything. “Utterly superb” – Brad Chacos, PC World “Windows 8’s coolest app: Fresh Paint” – David Goldman, CNNMoney “The most realistic painting app I have ever used” – Joe Fedewa, WinSource “There's no better demonstration of the cool types of things you can do with multitouch than Fresh Paint.” – Michael Muchmore, PC Magazine",
+    "DownloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/AsparionCalculator/3.3.2.42/neutral/12199Asparion.AsparionCalculator_3.3.2.42_neutral__f89vgcf3qm37t.appx",
+    "Version": "1.2.0.0",
+    "Category": "Entertainment"
   }
 ]
