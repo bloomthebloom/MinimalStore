@@ -3,7 +3,7 @@
     "Id": "livetext",
     "Name": "Live Text",
     "Publisher": "Live Text Team",
-    "Icon": "https://github.com/bloomthebloom/MinimalStore/blob/bb8db34375ffc8dd168c6b8d1c4540a7821ecd95/images/livetext.png",
+    "Icon": "https://raw.githubusercontent.com/bloomthebloom/MinimalStore/bb8db34375ffc8dd168c6b8d1c4540a7821ecd95/images/livetext.png",
     "Description": "All in one quote-text app! The Live Text app for Windows 8.1 gives you quotes from a API and you can customize it and it will fit with your design! You can even write your texts to appear on the live tile and don't forget that the next version will come soon!",
     "DownloadUrl": "https://raw.githubusercontent.com/bloomthebloom/LiveText/main/Live%20Text%20-%20Windows%208.1_1.2.0.0_AnyCPU.appx",
     "Version": "1.2.0.0",
