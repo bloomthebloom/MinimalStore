@@ -21,7 +21,7 @@
     "Id": "asparioncalc",
     "Name": "Asparion Calculator+",
     "Publisher": "Asparion",
-    "Icon": "https://raw.githubusercontent.com/bloomthebloom/MinimalStore/images/aspcalc.png",
+    "Icon": "https://raw.githubusercontent.com/bloomthebloom/MinimalStore/main/images/aspcalc.png",
     "Description": "An extensive scientific calculator for Windows with a lot of additional functions. You can choose from different designs and share your calculation. Furthermore, there is a history function which saves your calculations. You can also use your numpad and zoom the calculator to your desired size.",
     "DownloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/AsparionCalculator/3.3.2.42/neutral/12199Asparion.AsparionCalculator_3.3.2.42_neutral__f89vgcf3qm37t.appx",
     "Version": "3.3.2.42"
